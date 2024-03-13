@@ -1,0 +1,8 @@
+const v1 = true 
+const v2 = false 
+const v3 = true 
+
+console.log(v1 || v2) //true
+console.log(v2 || v3) // true
+console.log(v1 || v3) // true 
+console.log(v1 || v2 || v3) // true
