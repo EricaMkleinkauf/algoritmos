@@ -1,0 +1,1 @@
+const meuPokemon = charmander
